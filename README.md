@@ -122,6 +122,21 @@ An open-source observability platform for GPT-3. Allows to track usage, costs, a
 
 </details>
 
+## [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)
+
+Real-time monitoring dashboard for OpenClaw agents — tracks Gateway status, session metrics, token usage, and message trends. Vue 3 + ECharts frontend with Express + SQLite backend, self-hosted.
+
+<details>
+
+<!-- ### Description -->
+
+
+### Links
+- [GitHub](https://github.com/flik2002/openclaw-monitor)
+
+
+</details>
+
 ## [Langchain](https://www.langchain.com/)
 LangChain is a framework designed to simplify the creation of applications using large language models.
 
