@@ -169,15 +169,16 @@ A unified platform for debugging, testing, evaluating, and monitoring LLM applic
 
 </details>
 
-## [OpenClaw Monitor](https://github.com/monitor-lab/openclaw-monitor)
-OpenClaw Monitor is a local monitoring dashboard for OpenClaw AI agents. It features a Go backend that reads gateway and local files/logs, and a React UI that visualizes health, sessions, logs, and agent events.
+## [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor)
+Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
 
 <details>
 
 <!-- ### Description -->
 
 ### Links
-- [GitHub](https://github.com/monitor-lab/openclaw-monitor)
+- [GitHub](https://github.com/flik2002/openclaw-monitor)
+- [Screenshot](https://raw.githubusercontent.com/flik2002/openclaw-monitor/main/Openclaw%20Monitor.jpg)
 
 </details>
 
